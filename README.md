@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mikigames0009
 - 👀 I’m interested in Programming, Gaming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Java, Python, HTML, JavaScript
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Java, Python
 - 📫 How to reach me Virsli124@gmail.com
 
 <!---
