@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming, Gaming
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java, Python
-- 📫 How to reach me Virsli124@gmail.com
+- 📫 How to reach me virsli124@gmail.com
 
 <!---
 Mikigames0009/Mikigames0009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
